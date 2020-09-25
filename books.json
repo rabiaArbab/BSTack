@@ -1,0 +1,66 @@
+{
+    "novels": [
+      {
+
+        "title" : "Big Summer",
+        "author": "JENNIFER WEINER",
+        "price": "$28" 
+      },
+      {
+        "title" : "Perfect Tunes",
+        "author": "EMILY GOULD",
+        "price": "$20" 
+      },
+      {
+        "title" : "Long Bright River",
+        "author": "LIZ MOORE",
+        "price": "$80"  
+      },
+      {
+        "title" : "Weather",
+        "author": "JENNY OFFILL",
+        "price": "$30" 
+      },
+      {
+        "title" : "The Glass Hotel",
+        "author": "EMILY ST. JOHN MANDEL",
+        "price": "$80"   
+      },
+      {
+        "title" : "It's Not All Downhill From Here",
+        "author": "TERRY MCMILLAN",
+        "price": "$70" 
+      },
+      {
+        "title" : "Topics of Conversation",
+        "author": "MIRANDA POPKEY",
+        "price": "$40" 
+      },
+      {
+        "title" : "A Long Petal of the Sea",
+        "author": "LIZ MOORE",
+        "price": "$25" 
+      },
+      {
+        "title" : "The Regrets",
+        "author": "AMY BONNAFFONS",
+        "price": "$22"  
+      },
+     {
+        "title" : "Godshot",
+        "author": "CHELSEA BIEKER",
+        "price": "$30"  
+     },
+    {
+        "title" : "Tiny Imperfections",
+        "author": "ALLI FRANK AND ASHA YOUMANS",
+        "price": "$40" 
+    },
+    {
+        "title" : "Thin Girls",
+        "author": "DIANA CLARKE",
+        "price": "$80" 
+    }
+    ]
+}
+

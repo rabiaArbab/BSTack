@@ -1,0 +1,65 @@
+{
+    "technologyBooks":[
+        {
+            "tittle": "Tools And Weapons",
+            "author": "Brad Smith",
+            "price": "$20"
+        },
+        {
+            "tittle":"What Technology Wants",
+            "author":"Kelvin Kelly",
+            "price":"$30"
+        },
+        {
+            "tittle":"Ten Billion Tommorows",
+            "author":"Brian Clegg",
+            "price":"$40"
+        },
+        {
+            "tittle":"Technology That Will Change The World",
+            "author":"Butger Vam Santen",
+            "price":"$45"
+        },
+        {
+            "tittle":"The Trust Technology",
+            "author":"Mark Muller",
+            "price":"$20"
+        },
+        {
+            "tittle":"5G Simplified",
+            "author":"Anil Singh",
+            "price":"$30"
+        },
+        {
+            "tittle":"American Cosmic",
+            "author": "D.W Pasulka",
+            "price":"$30"
+        },
+        {
+            "tittle":"Meaning Technology",
+            "author":"Arnold Pacey",
+            "price":"$40"
+        },
+        {
+            "tittle":"New Thinking",
+            "author":"Dacoco Altrade",
+            "price":"$45"
+        },
+        {
+            "tittle":"Rise Of The Robots",
+            "author":"Martin Ford",
+            "price":"$30"
+        },
+        {
+            "tittle":"Philosophy Of Technology",
+            "author":"Evan Sellinger",
+            "price":"$20"
+        },
+        {
+            "tittle":"Innovation And Its Enemies",
+            "author":"Calestus Juma",
+            "price":"$30"
+        }
+    
+    ]
+}
