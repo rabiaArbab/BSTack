@@ -15,33 +15,34 @@
     <div class="background">
         <div class="signup-form">
             <form action="" method="post">
-                <img src="assetss/logo-TK.png" alt="logo" height="130px" class="logo">
+                <img src="assets/logo-TK.png" alt="logo" height="130px" class="logo">
                 <p class="hint-text">Create your account. It's free and only takes a minute.</p>
                 <div class="form-group">
                     <div class="row">
-                        <div class="col"><input type="text" class="form-control" name="first_name" placeholder="First Name" required="required"></div>
-                        <div class="col"><input type="text" class="form-control" name="last_name" placeholder="Last Name" required="required"></div>
+                        <div class="col"><input id="inpFirst" type="text" class="form-control" name="first_name" placeholder="First Name" required="required"></div>
+                        <div class="col"><input id="inpLast" type="text" class="form-control" name="last_name" placeholder="Last Name" required="required"></div>
                     </div>        	
                 </div>
                 <div class="form-group">
-                    <input type="email" class="form-control" name="email" placeholder="Email" required="required">
+                    <input id="inpEmail" type="email" class="form-control" name="email" placeholder="Email" required="required">
                 </div>
                 <div class="form-group">
                     <input type="password" class="form-control" name="password" placeholder="Password" required="required">
                 </div>
                 <div class="form-group">
-                    <input type="password" class="form-control" name="confirm_password" placeholder="Confirm Password" required="required">
+                    <input id="confirm" type="password" class="form-control" name="confirm_password" placeholder="Confirm Password" required="required">
                 </div>        
                 <div class="form-group">
-                    <label class="form-check-label"><input type="checkbox" required="required"> I accept the <a href="#">Terms of Use</a> &amp; <a href="#">Privacy Policy</a></label>
+                    <label class="form-check-label"><input id="check" type="checkbox" required="required"> I accept the <a href="#">Terms of Use</a> &amp; <a href="#">Privacy Policy</a></label>
                 </div>
                 <div class="form-group">
-                    <button type="submit" class="btn btn-success btn-lg btn-block">Register Now</button>
+                    <button id="btn" type="submit" class="btn btn-success btn-lg btn-block">Register Now</button>
                 </div>
-                <div class="text-center">Already have an account? <a href="signIn.html">Sign in</a></div>
+                <div class="text-center">Already have an account? <a href="#">Sign in</a></div>
             </form>
             
         </div>
     </div>
+    <script src="signup.js"></script>
 </body>
 </html>
